@@ -9,7 +9,7 @@ Since this readme is housed in [.github](.), you can keep it to document any cha
 Most environment variables are handled via environments and github builtin variables so usually nly minimal changes are required.
 
 # Variables
-Set the following [variables](../../settings/variables/actions/new)
+Set the following variables under `settings/variables/actions/new`
 | variable                | example value |
 |-------------------------|---------------|
 | DOCKER_PUBLISH_REGISTRY | ghcr.io       |
