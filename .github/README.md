@@ -1,4 +1,4 @@
-# Template Repository for java/JavaScript projects
+# Template Repository for Java/JavaScript projects
 This is the template repository containing github workflow files and similar.
 
 This repository does not contain any project seletion or gitignore files on purpose,
