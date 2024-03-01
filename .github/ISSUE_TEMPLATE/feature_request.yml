@@ -32,7 +32,7 @@ body:
         You can attach screenshots by dragging and dropping, or selecting and pasting them in the text field.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: alternatives
     attributes:
       label: 💭 Alternatives
