@@ -14,13 +14,15 @@ Set the following variables under `settings/variables/actions/new`
 |-------------------------|---------------|
 | DOCKER_PUBLISH_REGISTRY | ghcr.io       |
 
-- [`.github/`](.)
-    - [`workflows/`](./workflows/)
+- [.github/](.)
+    - [workflows/](./workflows/)
         - [gradle.yml](./workflows/gradle.yml)
         - [docker_publish.yml](./workflows/docker_publish.yml)
         - [branch_on_issue.yml](./workflows/branch_on_issue.yml)
-    - [issue-branch.yml](./issue-branch.yml)
-    - [ISSUE_TEMPLATE](./ISSUE_TEMPLATE/)
+        - [codeql-anaysis.yml](./workflows/codeql-analysis.yml)
+    - [ISSUE_TEMPLATE/](./ISSUE_TEMPLATE/)
         - [bug_report.md](./ISSUE_TEMPLATE/bug_report.md)
         - [custom.md](./ISSUE_TEMPLATE/custom.md)
         - [feature_request.md](./ISSUE_TEMPLATE/feature_request.md)
+    - [issue-branch.yml](./issue-branch.yml)
+    - [dependabot.yml](./dependabot.yml)
