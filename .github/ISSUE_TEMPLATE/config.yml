@@ -3,9 +3,9 @@ contact_links:
   - name: GitHub Community Support
     url: https://github.com/orgs/community/discussions
     about: Please ask and answer questions here.
-  - name: 📬 Contact Email
-    url: webmaster@datamanager.kit.edu
+  - name: Contact Email
+    url: mailto://webmaster@datamanager.kit.edu
     about: Contact us if you have further questions
-  - name: 📬 Contact Email
-    url: placeholder.com
+  - name: Contact Email
+    url: https://placeholder.com
     about: Contact webmaster@datamanager.kit.edu if you have further questions
