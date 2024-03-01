@@ -1,0 +1,44 @@
+name:  Feature request
+description: Help us improve frontend-collection
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: related-problem
+    attributes:
+      label: 🐛 Related problem
+      description: Is your feature request related to a problem? Please describe.
+      placeholder: |
+        Issue id or link: -1
+
+        1. Go to ...
+        2. Click on ...
+        3. Scroll down to ...
+        4. See error
+
+        You can attach screenshots by dragging and dropping, or selecting and pasting them in the text field.
+  - type: textarea
+    id: solution
+    attributes:
+      label: ❗ Solution
+      description: Describe the solution you'd like
+      placeholder: |
+        I would like to enable users to edit their status.
+
+        1. Click on a new button labeled "Edit Status"
+        2. Enter your status in a text field
+        3. Click "Submit"
+
+        You can attach screenshots by dragging and dropping, or selecting and pasting them in the text field.
+    validations:
+      required: true
+  - type: input
+    id: alternatives
+    attributes:
+      label: 💭 Alternatives
+      description: Describe alternatives you've considered
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: ⁉️ Additional context
+      description: Add any other context or screenshots about the feature request here.
