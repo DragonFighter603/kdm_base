@@ -22,7 +22,7 @@ Set the following variables under `settings/variables/actions/new`
         - [codeql-anaysis.yml](./workflows/codeql-analysis.yml)
     - [ISSUE_TEMPLATE/](./ISSUE_TEMPLATE/)
         - [bug_report.yml](./ISSUE_TEMPLATE/bug_report.yml)
-        - [custom.md](./ISSUE_TEMPLATE/custom.md)
         - [feature_request.yml](./ISSUE_TEMPLATE/feature_request.yml)
+        - [config.yml](./ISSUE_TEMPLATE/config.yml)
     - [issue-branch.yml](./issue-branch.yml)
     - [dependabot.yml](./dependabot.yml)
