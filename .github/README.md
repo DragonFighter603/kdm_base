@@ -23,6 +23,7 @@ Set the following variables under `settings/variables/actions/new`
     - [ISSUE_TEMPLATE/](./ISSUE_TEMPLATE/)
         - [bug_report.yml](./ISSUE_TEMPLATE/bug_report.yml)
         - [feature_request.yml](./ISSUE_TEMPLATE/feature_request.yml)
+        - [custom.md](./ISSUE_TEMPLATE/custom.md)
         - [config.yml](./ISSUE_TEMPLATE/config.yml)
     - [issue-branch.yml](./issue-branch.yml)
     - [dependabot.yml](./dependabot.yml)
